@@ -1,0 +1,17 @@
+E:\apps\visual studio\windows apps.cs\age\bin\Debug\net6.0-windows\age.exe
+E:\apps\visual studio\windows apps.cs\age\bin\Debug\net6.0-windows\age.deps.json
+E:\apps\visual studio\windows apps.cs\age\bin\Debug\net6.0-windows\age.runtimeconfig.json
+E:\apps\visual studio\windows apps.cs\age\bin\Debug\net6.0-windows\age.dll
+E:\apps\visual studio\windows apps.cs\age\bin\Debug\net6.0-windows\age.pdb
+E:\apps\visual studio\windows apps.cs\age\obj\Debug\net6.0-windows\age.csproj.AssemblyReference.cache
+E:\apps\visual studio\windows apps.cs\age\obj\Debug\net6.0-windows\age.Form1.resources
+E:\apps\visual studio\windows apps.cs\age\obj\Debug\net6.0-windows\age.csproj.GenerateResource.cache
+E:\apps\visual studio\windows apps.cs\age\obj\Debug\net6.0-windows\age.GeneratedMSBuildEditorConfig.editorconfig
+E:\apps\visual studio\windows apps.cs\age\obj\Debug\net6.0-windows\age.AssemblyInfoInputs.cache
+E:\apps\visual studio\windows apps.cs\age\obj\Debug\net6.0-windows\age.AssemblyInfo.cs
+E:\apps\visual studio\windows apps.cs\age\obj\Debug\net6.0-windows\age.csproj.CoreCompileInputs.cache
+E:\apps\visual studio\windows apps.cs\age\obj\Debug\net6.0-windows\age.dll
+E:\apps\visual studio\windows apps.cs\age\obj\Debug\net6.0-windows\refint\age.dll
+E:\apps\visual studio\windows apps.cs\age\obj\Debug\net6.0-windows\age.pdb
+E:\apps\visual studio\windows apps.cs\age\obj\Debug\net6.0-windows\age.genruntimeconfig.cache
+E:\apps\visual studio\windows apps.cs\age\obj\Debug\net6.0-windows\ref\age.dll
