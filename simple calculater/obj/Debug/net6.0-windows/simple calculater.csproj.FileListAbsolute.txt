@@ -1,0 +1,17 @@
+E:\apps\visual studio\windows apps.cs\simple calculater\bin\Debug\net6.0-windows\simple calculater.exe
+E:\apps\visual studio\windows apps.cs\simple calculater\bin\Debug\net6.0-windows\simple calculater.deps.json
+E:\apps\visual studio\windows apps.cs\simple calculater\bin\Debug\net6.0-windows\simple calculater.runtimeconfig.json
+E:\apps\visual studio\windows apps.cs\simple calculater\bin\Debug\net6.0-windows\simple calculater.dll
+E:\apps\visual studio\windows apps.cs\simple calculater\bin\Debug\net6.0-windows\simple calculater.pdb
+E:\apps\visual studio\windows apps.cs\simple calculater\obj\Debug\net6.0-windows\simple calculater.csproj.AssemblyReference.cache
+E:\apps\visual studio\windows apps.cs\simple calculater\obj\Debug\net6.0-windows\simple_calculater.Form1.resources
+E:\apps\visual studio\windows apps.cs\simple calculater\obj\Debug\net6.0-windows\simple calculater.csproj.GenerateResource.cache
+E:\apps\visual studio\windows apps.cs\simple calculater\obj\Debug\net6.0-windows\simple calculater.GeneratedMSBuildEditorConfig.editorconfig
+E:\apps\visual studio\windows apps.cs\simple calculater\obj\Debug\net6.0-windows\simple calculater.AssemblyInfoInputs.cache
+E:\apps\visual studio\windows apps.cs\simple calculater\obj\Debug\net6.0-windows\simple calculater.AssemblyInfo.cs
+E:\apps\visual studio\windows apps.cs\simple calculater\obj\Debug\net6.0-windows\simple calculater.csproj.CoreCompileInputs.cache
+E:\apps\visual studio\windows apps.cs\simple calculater\obj\Debug\net6.0-windows\simple calculater.dll
+E:\apps\visual studio\windows apps.cs\simple calculater\obj\Debug\net6.0-windows\refint\simple calculater.dll
+E:\apps\visual studio\windows apps.cs\simple calculater\obj\Debug\net6.0-windows\simple calculater.pdb
+E:\apps\visual studio\windows apps.cs\simple calculater\obj\Debug\net6.0-windows\simple calculater.genruntimeconfig.cache
+E:\apps\visual studio\windows apps.cs\simple calculater\obj\Debug\net6.0-windows\ref\simple calculater.dll
