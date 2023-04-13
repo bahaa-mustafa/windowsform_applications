@@ -1,0 +1,17 @@
+E:\apps\visual studio\windows apps.cs\simple calculator with advance UI\bin\Debug\net6.0-windows\simple calculator with advance UI.exe
+E:\apps\visual studio\windows apps.cs\simple calculator with advance UI\bin\Debug\net6.0-windows\simple calculator with advance UI.deps.json
+E:\apps\visual studio\windows apps.cs\simple calculator with advance UI\bin\Debug\net6.0-windows\simple calculator with advance UI.runtimeconfig.json
+E:\apps\visual studio\windows apps.cs\simple calculator with advance UI\bin\Debug\net6.0-windows\simple calculator with advance UI.dll
+E:\apps\visual studio\windows apps.cs\simple calculator with advance UI\bin\Debug\net6.0-windows\simple calculator with advance UI.pdb
+E:\apps\visual studio\windows apps.cs\simple calculator with advance UI\obj\Debug\net6.0-windows\simple calculator with advance UI.csproj.AssemblyReference.cache
+E:\apps\visual studio\windows apps.cs\simple calculator with advance UI\obj\Debug\net6.0-windows\simple_calculator_with_advance_UI.Form1.resources
+E:\apps\visual studio\windows apps.cs\simple calculator with advance UI\obj\Debug\net6.0-windows\simple calculator with advance UI.csproj.GenerateResource.cache
+E:\apps\visual studio\windows apps.cs\simple calculator with advance UI\obj\Debug\net6.0-windows\simple calculator with advance UI.GeneratedMSBuildEditorConfig.editorconfig
+E:\apps\visual studio\windows apps.cs\simple calculator with advance UI\obj\Debug\net6.0-windows\simple calculator with advance UI.AssemblyInfoInputs.cache
+E:\apps\visual studio\windows apps.cs\simple calculator with advance UI\obj\Debug\net6.0-windows\simple calculator with advance UI.AssemblyInfo.cs
+E:\apps\visual studio\windows apps.cs\simple calculator with advance UI\obj\Debug\net6.0-windows\simple calculator with advance UI.csproj.CoreCompileInputs.cache
+E:\apps\visual studio\windows apps.cs\simple calculator with advance UI\obj\Debug\net6.0-windows\simple calculator with advance UI.dll
+E:\apps\visual studio\windows apps.cs\simple calculator with advance UI\obj\Debug\net6.0-windows\refint\simple calculator with advance UI.dll
+E:\apps\visual studio\windows apps.cs\simple calculator with advance UI\obj\Debug\net6.0-windows\simple calculator with advance UI.pdb
+E:\apps\visual studio\windows apps.cs\simple calculator with advance UI\obj\Debug\net6.0-windows\simple calculator with advance UI.genruntimeconfig.cache
+E:\apps\visual studio\windows apps.cs\simple calculator with advance UI\obj\Debug\net6.0-windows\ref\simple calculator with advance UI.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "simple calculator with advance UI/1.0.0": {
+        "runtime": {
+          "simple calculator with advance UI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "simple calculator with advance UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
