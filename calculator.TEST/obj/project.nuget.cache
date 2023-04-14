@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "58DQUTqeHl9isdgWLSYNtgSxWa6UZEmp+XcL2Y7IpQmv8yOw083h9bu4IvqxPW3eyzW2bKIgjTA/Vusozs2JIQ==",
+  "success": false,
+  "projectFilePath": "E:\\apps\\visual studio\\windows apps.cs\\calculator.TEST\\calculator.TEST.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project simple calculator with advance UI is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project simple calculator with advance UI supports: net6.0-windows7.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "simple calculator with advance UI",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
