@@ -98,7 +98,7 @@
             // 
             label15.Anchor = AnchorStyles.Top;
             label15.ForeColor = SystemColors.ControlLight;
-            label15.Location = new Point(1417, 7);
+            label15.Location = new Point(1312, 7);
             label15.Name = "label15";
             label15.Size = new Size(54, 31);
             label15.TabIndex = 0;
@@ -109,7 +109,7 @@
             // 
             label14.Anchor = AnchorStyles.Top;
             label14.ForeColor = SystemColors.ControlLight;
-            label14.Location = new Point(1329, 7);
+            label14.Location = new Point(1224, 7);
             label14.Name = "label14";
             label14.Size = new Size(54, 31);
             label14.TabIndex = 0;
@@ -120,7 +120,7 @@
             // 
             label13.Anchor = AnchorStyles.Top;
             label13.ForeColor = SystemColors.ControlLight;
-            label13.Location = new Point(1240, 9);
+            label13.Location = new Point(1135, 9);
             label13.Name = "label13";
             label13.Size = new Size(54, 31);
             label13.TabIndex = 0;
@@ -131,7 +131,7 @@
             // 
             label12.Anchor = AnchorStyles.Top;
             label12.ForeColor = SystemColors.ControlLight;
-            label12.Location = new Point(1153, 7);
+            label12.Location = new Point(1048, 7);
             label12.Name = "label12";
             label12.Size = new Size(54, 31);
             label12.TabIndex = 0;
@@ -142,7 +142,7 @@
             // 
             label11.Anchor = AnchorStyles.Top;
             label11.ForeColor = SystemColors.ControlLight;
-            label11.Location = new Point(1065, 7);
+            label11.Location = new Point(960, 7);
             label11.Name = "label11";
             label11.Size = new Size(54, 31);
             label11.TabIndex = 0;
@@ -153,7 +153,7 @@
             // 
             label10.Anchor = AnchorStyles.Top;
             label10.ForeColor = SystemColors.ControlLight;
-            label10.Location = new Point(977, 7);
+            label10.Location = new Point(872, 7);
             label10.Name = "label10";
             label10.Size = new Size(54, 31);
             label10.TabIndex = 0;
@@ -164,7 +164,7 @@
             // 
             label9.Anchor = AnchorStyles.Top;
             label9.ForeColor = SystemColors.ControlLight;
-            label9.Location = new Point(889, 7);
+            label9.Location = new Point(784, 7);
             label9.Name = "label9";
             label9.Size = new Size(54, 31);
             label9.TabIndex = 0;
@@ -175,7 +175,7 @@
             // 
             label8.Anchor = AnchorStyles.Top;
             label8.ForeColor = SystemColors.ControlLight;
-            label8.Location = new Point(801, 7);
+            label8.Location = new Point(696, 7);
             label8.Name = "label8";
             label8.Size = new Size(54, 31);
             label8.TabIndex = 0;
@@ -186,7 +186,7 @@
             // 
             label7.Anchor = AnchorStyles.Top;
             label7.ForeColor = SystemColors.ControlLight;
-            label7.Location = new Point(713, 7);
+            label7.Location = new Point(608, 7);
             label7.Name = "label7";
             label7.Size = new Size(54, 31);
             label7.TabIndex = 0;
@@ -197,7 +197,7 @@
             // 
             label6.Anchor = AnchorStyles.Top;
             label6.ForeColor = SystemColors.ControlLight;
-            label6.Location = new Point(625, 7);
+            label6.Location = new Point(520, 7);
             label6.Name = "label6";
             label6.Size = new Size(54, 31);
             label6.TabIndex = 0;
@@ -208,7 +208,7 @@
             // 
             label5.Anchor = AnchorStyles.Top;
             label5.ForeColor = SystemColors.ControlLight;
-            label5.Location = new Point(537, 8);
+            label5.Location = new Point(432, 8);
             label5.Name = "label5";
             label5.Size = new Size(54, 31);
             label5.TabIndex = 0;
@@ -219,7 +219,7 @@
             // 
             label4.Anchor = AnchorStyles.Top;
             label4.ForeColor = SystemColors.ControlLight;
-            label4.Location = new Point(449, 8);
+            label4.Location = new Point(344, 8);
             label4.Name = "label4";
             label4.Size = new Size(54, 31);
             label4.TabIndex = 0;
@@ -230,7 +230,7 @@
             // 
             label3.Anchor = AnchorStyles.Top;
             label3.ForeColor = SystemColors.ControlLight;
-            label3.Location = new Point(361, 7);
+            label3.Location = new Point(256, 7);
             label3.Name = "label3";
             label3.Size = new Size(54, 31);
             label3.TabIndex = 0;
@@ -241,7 +241,7 @@
             // 
             label2.Anchor = AnchorStyles.Top;
             label2.ForeColor = SystemColors.ControlLight;
-            label2.Location = new Point(273, 7);
+            label2.Location = new Point(168, 7);
             label2.Name = "label2";
             label2.Size = new Size(54, 31);
             label2.TabIndex = 0;
@@ -289,7 +289,7 @@
             button14.BackgroundImageLayout = ImageLayout.Zoom;
             button14.FlatAppearance.BorderSize = 0;
             button14.FlatStyle = FlatStyle.Flat;
-            button14.Location = new Point(1417, 9);
+            button14.Location = new Point(1313, 9);
             button14.Name = "button14";
             button14.Size = new Size(54, 67);
             button14.TabIndex = 0;
@@ -302,7 +302,7 @@
             button13.BackgroundImageLayout = ImageLayout.Zoom;
             button13.FlatAppearance.BorderSize = 0;
             button13.FlatStyle = FlatStyle.Flat;
-            button13.Location = new Point(1329, 9);
+            button13.Location = new Point(1225, 9);
             button13.Name = "button13";
             button13.Size = new Size(54, 67);
             button13.TabIndex = 0;
@@ -316,7 +316,7 @@
             button12.BackgroundImageLayout = ImageLayout.Zoom;
             button12.FlatAppearance.BorderSize = 0;
             button12.FlatStyle = FlatStyle.Flat;
-            button12.Location = new Point(1240, 9);
+            button12.Location = new Point(1136, 9);
             button12.Name = "button12";
             button12.Size = new Size(54, 67);
             button12.TabIndex = 0;
@@ -329,7 +329,7 @@
             button11.BackgroundImageLayout = ImageLayout.Zoom;
             button11.FlatAppearance.BorderSize = 0;
             button11.FlatStyle = FlatStyle.Flat;
-            button11.Location = new Point(1152, 9);
+            button11.Location = new Point(1048, 9);
             button11.Name = "button11";
             button11.Size = new Size(54, 67);
             button11.TabIndex = 0;
@@ -342,11 +342,12 @@
             button10.BackgroundImageLayout = ImageLayout.Zoom;
             button10.FlatAppearance.BorderSize = 0;
             button10.FlatStyle = FlatStyle.Flat;
-            button10.Location = new Point(1064, 9);
+            button10.Location = new Point(960, 9);
             button10.Name = "button10";
             button10.Size = new Size(54, 67);
             button10.TabIndex = 0;
             button10.UseVisualStyleBackColor = true;
+            button10.Click += underLine_click;
             // 
             // button9
             // 
@@ -355,7 +356,7 @@
             button9.BackgroundImageLayout = ImageLayout.Zoom;
             button9.FlatAppearance.BorderSize = 0;
             button9.FlatStyle = FlatStyle.Flat;
-            button9.Location = new Point(976, 9);
+            button9.Location = new Point(872, 9);
             button9.Name = "button9";
             button9.Size = new Size(54, 67);
             button9.TabIndex = 0;
@@ -368,11 +369,12 @@
             button8.BackgroundImageLayout = ImageLayout.Zoom;
             button8.FlatAppearance.BorderSize = 0;
             button8.FlatStyle = FlatStyle.Flat;
-            button8.Location = new Point(888, 9);
+            button8.Location = new Point(784, 9);
             button8.Name = "button8";
             button8.Size = new Size(54, 67);
             button8.TabIndex = 0;
             button8.UseVisualStyleBackColor = true;
+            button8.Click += font_click;
             // 
             // button7
             // 
@@ -381,7 +383,7 @@
             button7.BackgroundImageLayout = ImageLayout.Zoom;
             button7.FlatAppearance.BorderSize = 0;
             button7.FlatStyle = FlatStyle.Flat;
-            button7.Location = new Point(800, 9);
+            button7.Location = new Point(696, 9);
             button7.Name = "button7";
             button7.Size = new Size(54, 67);
             button7.TabIndex = 0;
@@ -395,7 +397,7 @@
             button6.BackgroundImageLayout = ImageLayout.Zoom;
             button6.FlatAppearance.BorderSize = 0;
             button6.FlatStyle = FlatStyle.Flat;
-            button6.Location = new Point(712, 9);
+            button6.Location = new Point(608, 9);
             button6.Name = "button6";
             button6.Size = new Size(54, 67);
             button6.TabIndex = 0;
@@ -408,11 +410,12 @@
             button5.BackgroundImageLayout = ImageLayout.Zoom;
             button5.FlatAppearance.BorderSize = 0;
             button5.FlatStyle = FlatStyle.Flat;
-            button5.Location = new Point(624, 9);
+            button5.Location = new Point(520, 9);
             button5.Name = "button5";
             button5.Size = new Size(54, 67);
             button5.TabIndex = 0;
             button5.UseVisualStyleBackColor = true;
+            button5.Click += bold_click;
             // 
             // button4
             // 
@@ -421,7 +424,7 @@
             button4.BackgroundImageLayout = ImageLayout.Zoom;
             button4.FlatAppearance.BorderSize = 0;
             button4.FlatStyle = FlatStyle.Flat;
-            button4.Location = new Point(536, 9);
+            button4.Location = new Point(432, 9);
             button4.Name = "button4";
             button4.Size = new Size(54, 67);
             button4.TabIndex = 0;
@@ -435,7 +438,7 @@
             button3.BackgroundImageLayout = ImageLayout.Zoom;
             button3.FlatAppearance.BorderSize = 0;
             button3.FlatStyle = FlatStyle.Flat;
-            button3.Location = new Point(448, 9);
+            button3.Location = new Point(344, 9);
             button3.Name = "button3";
             button3.Size = new Size(54, 67);
             button3.TabIndex = 0;
@@ -449,7 +452,7 @@
             button2.BackgroundImageLayout = ImageLayout.Zoom;
             button2.FlatAppearance.BorderSize = 0;
             button2.FlatStyle = FlatStyle.Flat;
-            button2.Location = new Point(360, 9);
+            button2.Location = new Point(256, 9);
             button2.Name = "button2";
             button2.Size = new Size(54, 67);
             button2.TabIndex = 0;
@@ -463,7 +466,7 @@
             button1.BackgroundImageLayout = ImageLayout.Zoom;
             button1.FlatAppearance.BorderSize = 0;
             button1.FlatStyle = FlatStyle.Flat;
-            button1.Location = new Point(272, 9);
+            button1.Location = new Point(168, 9);
             button1.Name = "button1";
             button1.Size = new Size(54, 67);
             button1.TabIndex = 0;

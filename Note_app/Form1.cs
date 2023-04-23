@@ -68,5 +68,26 @@ namespace Note_app
             Clipboard.SetText(richTextBox1.SelectedText);
             richTextBox1.SelectedText = "";
         }
+
+        private void font_click(object sender, EventArgs e)
+        {
+            var fontdialog = new FontDialog();
+
+            var result = fontdialog.ShowDialog();
+            if (result == DialogResult.OK)
+            {
+                richTextBox1.Font = fontdialog.Font;
+            }
+        }
+
+        private void bold_click(object sender, EventArgs e)
+        {
+            richTextBox1.Font = new Font(richTextBox1.Font, FontStyle.Bold);
+        }
+
+        private void underLine_click(object sender, EventArgs e)
+        {
+            richTextBox1.Font = new Font(richTextBox1.Font,FontStyle.Underline);
+        }
     }
 }
