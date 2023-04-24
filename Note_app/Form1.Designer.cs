@@ -157,7 +157,7 @@
             label10.Name = "label10";
             label10.Size = new Size(54, 31);
             label10.TabIndex = 0;
-            label10.Text = "Eraser";
+            label10.Text = "fontCr";
             label10.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // label9
@@ -190,7 +190,7 @@
             label7.Name = "label7";
             label7.Size = new Size(54, 31);
             label7.TabIndex = 0;
-            label7.Text = "Import";
+            label7.Text = "backCr";
             label7.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // label6
@@ -294,6 +294,7 @@
             button14.Size = new Size(54, 67);
             button14.TabIndex = 0;
             button14.UseVisualStyleBackColor = true;
+            button14.Click += close_click;
             // 
             // button13
             // 
@@ -321,6 +322,7 @@
             button12.Size = new Size(54, 67);
             button12.TabIndex = 0;
             button12.UseVisualStyleBackColor = true;
+            button12.Click += alignToRight_click;
             // 
             // button11
             // 
@@ -334,6 +336,7 @@
             button11.Size = new Size(54, 67);
             button11.TabIndex = 0;
             button11.UseVisualStyleBackColor = true;
+            button11.Click += alignToLift_click;
             // 
             // button10
             // 
@@ -361,6 +364,7 @@
             button9.Size = new Size(54, 67);
             button9.TabIndex = 0;
             button9.UseVisualStyleBackColor = true;
+            button9.Click += font_color_click;
             // 
             // button8
             // 
@@ -402,6 +406,7 @@
             button6.Size = new Size(54, 67);
             button6.TabIndex = 0;
             button6.UseVisualStyleBackColor = true;
+            button6.Click += background_color_click;
             // 
             // button5
             // 

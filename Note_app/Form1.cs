@@ -87,7 +87,51 @@ namespace Note_app
 
         private void underLine_click(object sender, EventArgs e)
         {
-            richTextBox1.Font = new Font(richTextBox1.Font,FontStyle.Underline);
+            richTextBox1.Font = new Font(richTextBox1.Font, FontStyle.Underline);
+        }
+
+        private void background_color_click(object sender, EventArgs e)
+        {
+            var boxColor = new ColorDialog();
+            var result = boxColor.ShowDialog();
+            if (result == DialogResult.OK)
+            {
+                richTextBox1.BackColor = boxColor.Color;
+            }
+        }
+
+        private void font_color_click(object sender, EventArgs e)
+        {
+            var boxColor = new ColorDialog();
+            var result = boxColor.ShowDialog();
+            if (result == DialogResult.OK)
+            {
+                richTextBox1.ForeColor = boxColor.Color;
+            }
+        }
+
+        private void alignToLift_click(object sender, EventArgs e)
+        {
+            richTextBox1.RightToLeft = RightToLeft.No;
+        }
+
+        private void alignToRight_click(object sender, EventArgs e)
+        {
+            richTextBox1.RightToLeft = RightToLeft.Yes;
+        }
+
+        private void close_click(object sender, EventArgs e)
+        {
+            var di = new SaveFileDialog();
+            di.Filter = "Text|*.txt";
+            di.FileName = Path.GetFileName(di.FileName);
+            var res = di.ShowDialog();
+            if (res == DialogResult.OK)
+            {
+                File.WriteAllText(di.FileName, richTextBox1.Text);
+                
+            }
+
         }
     }
 }
