@@ -131,6 +131,8 @@ namespace Note_app
                 File.WriteAllText(di.FileName, richTextBox1.Text);
                 
             }
+            Environment.Exit(1 );
+            
 
         }
     }
